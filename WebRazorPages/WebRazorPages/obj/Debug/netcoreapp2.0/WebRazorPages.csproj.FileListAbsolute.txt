@@ -1,0 +1,12 @@
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\bin\Debug\netcoreapp2.0\WebRazorPages.deps.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\bin\Debug\netcoreapp2.0\WebRazorPages.runtimeconfig.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\bin\Debug\netcoreapp2.0\WebRazorPages.runtimeconfig.dev.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\bin\Debug\netcoreapp2.0\WebRazorPages.dll
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\bin\Debug\netcoreapp2.0\WebRazorPages.pdb
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.csproj.CoreCompileInputs.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.AssemblyInfoInputs.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.AssemblyInfo.cs
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.dll
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.pdb

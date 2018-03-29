@@ -1,0 +1,11 @@
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\bin\Debug\netcoreapp2.0\TesteRazor.deps.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\bin\Debug\netcoreapp2.0\TesteRazor.runtimeconfig.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\bin\Debug\netcoreapp2.0\TesteRazor.runtimeconfig.dev.json
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\bin\Debug\netcoreapp2.0\TesteRazor.dll
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\bin\Debug\netcoreapp2.0\TesteRazor.pdb
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.csproj.CoreCompileInputs.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.AssemblyInfoInputs.cache
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.AssemblyInfo.cs
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.dll
+C:\Users\5A_PC1\Desktop\Testes\WebRazorPages\TesteRazor\obj\Debug\netcoreapp2.0\TesteRazor.pdb

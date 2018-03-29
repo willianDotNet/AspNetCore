@@ -1,0 +1,25 @@
+﻿@page
+@model TesteRazor.Pages.MinhaPaginaModel
+@{
+    ViewData["Title"] = "MinhaPagina";
+}
+
+<form method="post">
+    <label>Nome</label>
+    <input type="text" asp-for="Ani.Name" />
+    <input type="submit" value="Clica ai" />
+</form>
+
+
+
+<ul class="list-group">
+
+    @foreach (var item in Model.ListaAnimals)
+    {
+        <li class="list-group-item">@item.Name</li>
+    }
+
+</ul>
+
+<h2>MinhaPagina</h2>
+

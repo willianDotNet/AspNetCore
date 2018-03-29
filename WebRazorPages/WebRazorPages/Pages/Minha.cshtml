@@ -1,0 +1,25 @@
+﻿@page
+@model WebRazorPages.Pages.MinhaModel
+@{
+    ViewData["Title"] = "Minha";
+}
+
+
+<form method="post">
+
+    <label>Nome</label>
+    <input type="text" asp-for="Animal.Name" />
+    <input type="submit" />
+
+</form>
+
+<h2>Minha</h2>
+<p>@Model.Info</p>
+
+<ul class="list-group">
+
+    @foreach (var item in Model.Anis)
+    {
+        <li class="list-group-item">@item.Name</li>
+    }
+</ul>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebRazorPages", "WebRazorPages\WebRazorPages.csproj", "{2AD16354-6BD6-450E-94B8-3EC1B2D57C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteRazor", "TesteRazor\TesteRazor.csproj", "{44C0EC80-19E3-4ECE-8B54-A54C2C205ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD16354-6BD6-450E-94B8-3EC1B2D57C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD16354-6BD6-450E-94B8-3EC1B2D57C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD16354-6BD6-450E-94B8-3EC1B2D57C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD16354-6BD6-450E-94B8-3EC1B2D57C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C0EC80-19E3-4ECE-8B54-A54C2C205ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C0EC80-19E3-4ECE-8B54-A54C2C205ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C0EC80-19E3-4ECE-8B54-A54C2C205ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C0EC80-19E3-4ECE-8B54-A54C2C205ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A148CB2-7519-4778-8E6B-0C4240439C5E}
+	EndGlobalSection
+EndGlobal
